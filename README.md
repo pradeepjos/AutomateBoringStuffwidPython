@@ -1,5 +1,5 @@
 # AutomateBoringStuffwidPython
-This repo is a collection of multiple coding exercises which I worked on while taking the course "Automate Boring Stuff with Python by AL Al Sweigart".
+This repo is a collection of multiple coding exercises which I worked on while taking the course "Automate Boring Stuff with Python by AL Sweigart".
 
 *Free online e-book can be found here: http://automatetheboringstuff.com/chapter0/.*
 
