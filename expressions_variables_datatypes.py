@@ -4,7 +4,7 @@
 
 print(2+2) # Expressions =  values + operators; always evaluate to a single value
 
-# Most Commonl used Operators
+# Most Commonly used Operators
 
 print("Multiplication (*)-->", 2 * 2) # Multiplication
 

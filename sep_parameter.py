@@ -22,4 +22,7 @@ print("5","4","2022", sep="/")
 #Eg:
 val = ["1","2","3","4","5"]
 for i in val:
-  print(i, end = " ",  sep = "/b")
+  print(i, end = "",  sep = "/b")
+
+#Article: https://codescracker.com/python/python-sep.htm
+#More about escape characters: https://www.w3schools.com/python/gloss_python_escape_characters.asp#:~:text=To%20insert%20characters%20that%20are,character%20you%20want%20to%20insert.

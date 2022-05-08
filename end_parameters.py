@@ -1,5 +1,6 @@
 # When we execute a print statement, by default a new line is inserted to after the execution.
 # In order to avoid this we use 'end=' parameter
+# end= is considered as a keyword arguments
 # Benefits of end parameters:
  # 1. We can change the default behavior of the print statement to insert a new line after its execution.
  # 2. We can add multiple new lines to the print statement.
